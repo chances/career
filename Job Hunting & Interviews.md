@@ -29,6 +29,7 @@
 - **Research** the company
   - What do they do specifically?
   - What are their values/ what's their mission statement?
+  - What projects are they working on publicly?
 - Understand the job description
   - How do your skills directly relate, write this down
   - How does your experience prove that you have these relatable skills?
@@ -36,9 +37,11 @@
 
 ### Questions
 
+- Describe your ideal candidate.
 - How is success measured?
-- Work in teams or solo mostly? (Loneliness sucks)
+- What kind of teams will I be working with?
 - Am I encouraged to fiddle?
+- Do you offer continuing education and professional training?
 - When should I expect to hear back from you?
 - How soon am I expected to start working?
 
@@ -51,11 +54,17 @@
 
 ### Questions
 
-- Describe your ideal candidate.
+- What is the largest problem facing your staff?
+  - Can help the interviewer envision you working in the position as well as highlighting your ability to think like an engaged team member.
+- Who previously held this position? (Glean info about previous employees and their career trajectories)
+- What do you enjoy most about working here?
+- Do you have any hesitations about my qualifications?
+  - Shows your confidence, fearlessness in the face of criticism, and your investment into your own improvement.
+- Next steps in this process? (Show your pro-activeness)
 - Logistics:
   - Compensation
   - Benefits
-  - Requirements (Hours of travel?, On call?)
+  - Other requirements (Hours of travel?, Will you be on call?)
 - Intangibles:
   - Cool people? (Culture)
   - Easy commute?
